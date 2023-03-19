@@ -1,0 +1,18 @@
+.single-product{
+    background: #141124;
+    border-radius: 10px;
+    cursor: pointer;
+    color: aliceblue;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90%;
+
+}
+.single-product:hover{
+    box-shadow: 5px 5px 10px 5px #f5b70a;    
+}
+/* .card{
+    height: 20%;
+} */

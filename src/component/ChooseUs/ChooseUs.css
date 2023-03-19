@@ -1,0 +1,31 @@
+.single_feature span{
+    width: 10%;
+    height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.single_feature span i{
+    font-size: 1.5rem;
+    color: orange;
+}
+.choose-content h4{
+    color: rgb(59, 77, 40);
+    margin-bottom: 2%;
+}
+.single_feature h5{
+    color: orange;
+}
+p{
+    color: black;
+}
+#feature_icon-3{
+    color: #f1f50a;
+}
+#feature_icon-4{
+    color: #6c5edd;
+}
+#feature_icon-two{
+    color: green;
+}
